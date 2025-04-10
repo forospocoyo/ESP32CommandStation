@@ -16,8 +16,8 @@ jobs:
       matrix:
         target:
           - esp32-v4.4-L298-NONE
-          - esp32-v4.4-LMD18200-NONE
-          - esp32-v4.4-BTS7960B-NONE
+          #- esp32-v4.4-LMD18200-NONE
+          #- esp32-v4.4-BTS7960B-NONE
           - esp32-v4.4-L298-LCD
           - esp32-v4.4-L298-OLED
           #- esp32-v4.4-PCB
